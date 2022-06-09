@@ -1,4 +1,4 @@
-## Eduardo-Miranda
+## Oie, me chamo Eduardo Miranda e esse é o portfólio que utilizo para divulgar meus projetos públicos de programação. Enjoy!! 
 <div align="center">
   <a href="https://github.com/EduardoMirandaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMirandaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
