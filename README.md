@@ -1,4 +1,9 @@
-## Oie, me chamo Eduardo Miranda e esse é o portfólio que utilizo para divulgar meus projetos públicos de programação. Enjoy!! 
+### Hi 👋
+I am a information system graduate that is always looking for opportunities and collabaration in projects related to technology.
+- 🚀 I’m currently working with Java at DBC Company.
+- 🌱 I’m currently learning functional paradigm.
+
+ 
 <div align="center">
   <a href="https://github.com/EduardoMirandaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMirandaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
