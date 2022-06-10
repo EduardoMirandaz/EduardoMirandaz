@@ -15,9 +15,9 @@ I am a information system graduate that is always looking for opportunities and 
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;"; transform: rotate(180deg); src="https://yt3.ggpht.com/Fg_sQofuAXXJsg3lSfcEfJKlayzUzRcEP-U7VBmQZFaUI-AwI8IB4-tcB3fRsBGtQA675drNnw=s900-c-k-c0x00ffffff-no-rj">
+  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;"; transform: rotate(180deg); src="https://scontent.fqsc1-1.fna.fbcdn.net/v/t1.6435-9/174099048_3317712934998010_5305452639584274683_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=FI3BAy5_hXgAX_HirEu&_nc_oc=AQmkQqvMOOAmG8Sd4Qtf-_nKODUUEpLHxOpZz2PBbJgc0SSZsWXM4-UtGZsmwnw-52Ei8iJ6CqfmU4BZuDBnqjWx&tn=M65gctpd94BhTmDV&_nc_ht=scontent.fqsc1-1.fna&oh=00_AT-ZWxAaEmvCAI_CUqa7EkmL2XXn8lJ-13eXj98xxrWhTg&oe=62C73C05">
 </div>
-  
+  --https://yt3.ggpht.com/Fg_sQofuAXXJsg3lSfcEfJKlayzUzRcEP-U7VBmQZFaUI-AwI8IB4-tcB3fRsBGtQA675drNnw=s900-c-k-c0x00ffffff-no-rj
   ##
  
 <div> 
