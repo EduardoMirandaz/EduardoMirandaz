@@ -15,12 +15,9 @@ I am a information system graduate that is always looking for opportunities and 
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;"; transform: rotate(180deg); src="[https://photos.google.com/photo/AF1QipM_oR8eChOQZnHrv9pUzYgWWTswLQaA8os55pWl](https://lh3.googleusercontent.com/pw/AM-JKLUSLbwAElyhPVh5Yg5t1mV54jr7Grna-Kq1MLj0_m9ZmLtjKbJ5mSFGsww4WJpPw7nfMotKzc_ntPNStMMsN5M7Vh9u1_wrZP-BMdN5qxwM8P8IsHOiWyJ3He8yum09M5MEBdSD7FWSFfx4SOT2CT3r4g=w474-h903-no?authuser=0)">
-</div>
-<!--  (url)https://yt3.ggpht.com/Fg_sQofuAXXJsg3lSfcEfJKlayzUzRcEP-U7VBmQZFaUI-AwI8IB4-tcB3fRsBGtQA675drNnw=s900-c-k-c0x00ffffff-no-rj -->
- 
-<div> 
-  <a href="https://www.instagram.com/eduardomlranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;"; transform: rotate(180deg); src="[https://photos.google.com/photo/AF1QipM_oR8eChOQZnHrv9pUzYgWWTswLQaA8os55pWl](https://lh3.googleusercontent.com/pw/AM-JKLUSLbwAElyhPVh5Yg5t1mV54jr7Grna-Kq1MLj0_m9ZmLtjKbJ5mSFGsww4WJpPw7nfMotKzc_ntPNStMMsN5M7Vh9u1_wrZP-BMdN5qxwM8P8IsHOiWyJ3He8yum09M5MEBdSD7FWSFfx4SOT2CT3r4g=w474-h903-no?authuser=0)"> -->
+
+ <a href="https://www.instagram.com/eduardomlranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardo.cmazevedo@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="t.me/thedraude" target="_blank"><img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 " target="_blank"></a>
