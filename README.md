@@ -4,7 +4,7 @@ I am a information system graduate that is always looking for opportunities and 
 - 🌱 I’m currently learning functional paradigm of programming.
 - 🎸 I like to play guitar and ukulele for fun.
 
- 
+ <center>
 <div align="center">
   <a href="https://github.com/EduardoMirandaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMirandaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@ I am a information system graduate that is always looking for opportunities and 
   <a href = "mailto:eduardo.cmazevedo@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="t.me/thedraude" target="_blank"><img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 " target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-miranda-a43a73209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-miranda-a43a73209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></center>
 
 
  
