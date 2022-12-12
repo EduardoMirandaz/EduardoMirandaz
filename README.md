@@ -2,6 +2,7 @@
 I am a information system graduate that is always looking for opportunities and collabaration in projects related to technology.
 - 🚀 I’m currently working with Java at DBC Company.
 - 🌱 I’m currently learning functional paradigm of programming.
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/eduardo-miranda-a43a73209">LinkedIn</a>
 - 🤖 I’m currently learning cpp to improve my software contests technical skills.
 - 🎸 I like to play guitar and ukulele for fun.
 
