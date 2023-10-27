@@ -1,6 +1,6 @@
 ### Hi, Eduardo Miranda here! 👋
 I am a information system graduate that is always looking for opportunities and collabaration in projects related to technology.
-- 🚀 I’m currently working as Quality Engineer at DBC Company.
+- 🚀 I’m currently working as Quality Engineer at DBC Company and QA Instructor at TripleTen.
 - 🤓 I’m a huge fan of functional paradigm of programming.
 - 📫 You may reach me on: <a href="https://www.linkedin.com/in/eduardo-miranda-a43a73209">LinkedIn</a>
 - 🤖 I love to teach about programming.
