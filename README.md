@@ -7,6 +7,11 @@ I am a information system graduate that is always looking for opportunities and 
 - 😪 Also I'm learning React and the shades of front-end.
 - 🎸 I like to play guitar and ukulele for fun.
 
+<div align="center">
+  <a href="https://github.com/EduardoMirandaz">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoMirandaz&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMirandaz&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+</div>
 
 
  
