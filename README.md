@@ -5,7 +5,8 @@ I am a information system graduate that is always looking for opportunities and 
 - 📫 You may reach me on: <a href="https://www.linkedin.com/in/eduardo-miranda-a43a73209">LinkedIn</a>
 - 🤖 I love to teach about programming.
 - 😪 Also I'm learning React and the shades of front-end.
-- 🎸 I like to play guitar and ukulele for fun.
+- 🎸 I like to play guitar and 'cavaquinho' for fun.
+- 👟 I'm an amateur 5/10km runner and part of my college's Track & Field team.
 
 <div align="center">
   <a href="https://github.com/EduardoMirandaz">
